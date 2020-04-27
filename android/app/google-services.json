@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "567655951873",
+    "firebase_url": "https://getout-8788a.firebaseio.com",
+    "project_id": "getout-8788a",
+    "storage_bucket": "getout-8788a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567655951873:android:f2b2de1586098192679a00",
+        "android_client_info": {
+          "package_name": "com.example.getOut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567655951873-r8rhtpqfq67uh9isabahou7cilgjebqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_gKxTf78tybliZJJ-0wrF2mH1Gvgp4Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567655951873-r8rhtpqfq67uh9isabahou7cilgjebqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
